@@ -73,7 +73,12 @@ platforms:
       name: "抖音"
     - id: "zhihu"
       name: "知乎"
-
+    - id: "tencent-hot"
+      name: "腾讯新闻"
+    - id: "github-trending-today"
+      name: "GitHub Trending"
+    - id: "36kr-renqi"
+      name: "36氪人气榜"
 
 
 # ===============================================================
